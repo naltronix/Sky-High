@@ -1,5 +1,5 @@
 # Sky-High
-Sky High development repo
+Sky High development repository
 
 # Releases
 Releases are structured like this:
