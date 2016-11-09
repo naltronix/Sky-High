@@ -1,6 +1,6 @@
 # Sky-High
 Sky High development repository
-DO NOT STEAL
+DONUT STEEL
 
 # Releases
 Releases are structured like this:
