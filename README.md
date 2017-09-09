@@ -1,6 +1,5 @@
 # Sky-High
 Sky High development repository
-DO NOT STEAL
 
 # Releases
 Releases are structured like this:
